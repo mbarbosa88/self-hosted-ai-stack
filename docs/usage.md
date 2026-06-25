@@ -15,3 +15,4 @@ Notes and usage details for self-hosted-ai-stack.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- add a note about the defaults
