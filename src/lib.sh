@@ -22,3 +22,4 @@ echo "self-hosted-ai-stack"
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# guard against empty input
